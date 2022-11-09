@@ -1,11 +1,7 @@
-# jaylog_html
+# jaylog-html-postman
 
-# 더미데이터 입력
-gen.html 파일을 라이브 서버 등으로 실행하면 localStorage에 더미데이터가 입력된다.
+# 참고
 
-# 더미 아이디
-id : test
-pw : 123
+join페이지의 script 부분을 확인한다.
 
-id : test1
-pw : 123
+fetch 및 axios 사용법 확인
